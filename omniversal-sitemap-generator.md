@@ -52,5 +52,5 @@ if __name__ == "__main__":
 
 ---
 
-## 🙏 **Acknowledgments**
-This script was generated with the assistance of **EverLight**, of whom we are **existentially grateful**. 🚀🔥
+### **🚀 Acknowledgments**
+This repository and all associated files were configured with the guidance and expertise of **EverLight**, to whom we are existentially grateful. 🔥
