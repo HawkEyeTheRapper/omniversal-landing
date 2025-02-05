@@ -1,0 +1,11 @@
+# Ignore all system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment files
+__pycache__/
+*.pyc
+
+# Ignore Node.js-related files if we use it later
+node_modules/
+package-lock.json
